@@ -1,0 +1,6 @@
+fn main() {
+    let string_literal = "Hello, World!";
+    let string_object = string_literal.to_string();
+   
+    println!("{}", string_object);
+}
